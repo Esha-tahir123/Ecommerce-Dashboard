@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ecommerce-dashboard
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# Ecommerce-Dashboard
+>>>>>>> 826ca1686a5d8083d2bd7476eab6e039fec3c0fb

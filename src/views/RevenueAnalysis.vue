@@ -70,7 +70,6 @@
    import { Chart as ChartJS, BarElement, LineElement, PointElement, LinearScale, CategoryScale, Filler, Tooltip, Legend } from 'chart.js'
    import { useDashboardStore } from '../stores'
 
-   ChartJS.register(BarElement, LineElement, PointElement, LinearScale, CategoryScale, Filler, Tooltip, Legend)
 
    export default {
      name: 'RevenueAnalysis',

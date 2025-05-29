@@ -22,7 +22,6 @@
    import { Chart as ChartJS, LineElement, PointElement, LinearScale, CategoryScale, Filler, Tooltip } from 'chart.js'
    import { useDashboardStore } from '../stores'
 
-   ChartJS.register(LineElement, PointElement, LinearScale, CategoryScale, Filler, Tooltip)
 
    export default {
      name: 'RevenueTrendChart',

@@ -22,7 +22,6 @@
    import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js'
    import { useDashboardStore } from '../stores'
 
-   ChartJS.register(ArcElement, Tooltip, Legend)
 
    export default {
      name: 'CategoryDistributionChart',
