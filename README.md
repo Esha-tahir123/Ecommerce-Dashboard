@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ecommerce-dashboard
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -13,8 +12,19 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
+### Prerequisites
+
+Node.js (v18 or higher)
+npm (v9 or higher)
+
+### Installation
+##### Install dependencies
 ```sh
 npm install
+```
+##### Run the development server:
+```sh
+npm run dev
 ```
 
 ### Compile and Hot-Reload for Development
@@ -29,11 +39,9 @@ npm run dev
 npm run build
 ```
 
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
-=======
-# Ecommerce-Dashboard
->>>>>>> 826ca1686a5d8083d2bd7476eab6e039fec3c0fb
